@@ -1,0 +1,323 @@
+{
+  "Boh": {
+    "name": "Bohemia",
+    "type": "inland",
+    "nation": "Austria",
+    "supply": null
+  },
+  "Bud": {
+    "name": "Budapest",
+    "type": "inland",
+    "nation": "Austria",
+    "supply": {
+
+    }
+  },
+  "Gal": {
+    "name": "Galicia",
+    "type": "inland",
+    "nation": "Austria",
+    "supply": null
+  },
+  "Tri": {
+    "name": "Trieste",
+    "type": "coastal",
+    "nation": "Austria",
+    "supply": {
+
+    }
+  },
+  "Tyr": {
+    "name": "Tyrolia",
+    "type": "inland",
+    "nation": "Austria",
+    "supply": null
+  },
+  "Vie": {
+    "name": "Vienna",
+    "type": "inland",
+    "nation": "Austria",
+    "supply": {
+
+    }
+  },
+  "Cly": {
+    "name": "Clyde",
+    "type": "coastal",
+    "nation": "England",
+    "supply": null
+  },
+  "Edi": {
+    "name": "Edinburgh",
+    "type": "coastal",
+    "nation": "England",
+    "supply": {
+
+    }
+  },
+  "Lvp": {
+    "name": "Liverpool",
+    "type": "coastal",
+    "nation": "England",
+    "supply": {
+
+    }
+  },
+  "Lon": {
+    "name": "London",
+    "type": "coastal",
+    "nation": "England",
+    "supply": {
+
+    }
+  },
+  "Wal": {
+    "name": "Wales",
+    "type": "coastal",
+    "nation": "England",
+    "supply": null
+  },
+  "Yor": {
+    "name": "Yorkshire",
+    "type": "coastal",
+    "nation": "England",
+    "supply": null
+  },
+  "Bre": {
+    "name": "Brest",
+    "type": "coastal",
+    "nation": "France",
+    "supply": null
+  },
+  "Bur": {
+    "name": "Burgundy",
+    "type": "inland",
+    "nation": "France",
+    "supply": null
+  },
+  "Gas": {
+    "name": "Gascony",
+    "type": "coastal",
+    "nation": "France",
+    "supply": null
+  },
+  "Mar": {
+    "name": "Marseilles",
+    "type": "coastal",
+    "nation": "France",
+    "supply": {
+    }
+  },
+  "Par": {
+    "name": "Paris",
+    "type": "inland",
+    "nation": "France",
+    "supply": {
+
+    }
+  },
+  "Pic": {
+    "name": "Picardy",
+    "type": "coastal",
+    "nation": "France",
+    "supply": null
+  },
+  "Ber": {
+    "name": "Berlin",
+    "type": "coastal",
+    "nation": "Germany",
+    "supply": {
+
+    }
+  },
+  "Kie": {
+    "name": "Kiel",
+    "type": "coastal",
+    "nation": "Germany",
+    "supply": {
+
+    }
+  },
+  "Mun": {
+    "name": "Munich",
+    "type": "inland",
+    "nation": "Germany",
+    "supply": {
+
+    }
+  },
+  "Pru": {
+    "name": "Prussia",
+    "type": "coastal",
+    "nation": "Germany",
+    "supply": null
+  },
+  "Ruh": {
+    "name": "Ruhr",
+    "type": "inland",
+    "nation": "Germany",
+    "supply": null
+  },
+  "Sil": {
+    "name": "Silesia",
+    "type": "inland",
+    "nation": "Germany",
+    "supply": null
+  },
+  "Apu": {
+    "name": "Apulia",
+    "type": "coastal",
+    "nation": "Italy",
+    "supply": null
+  },
+  "Nap": {
+    "name": "Naples",
+    "type": "coastal",
+    "nation": "Italy",
+    "supply": {
+
+    }
+  },
+  "Pie": {
+    "name": "Piedmont",
+    "type": "coastal",
+    "nation": "Italy",
+    "supply": {
+
+    }
+  },
+  "Rom": {
+    "name": "Rome",
+    "type": "coastal",
+    "nation": "Italy",
+    "supply": {
+
+    }
+  },
+  "Tus": {
+    "name": "Tuscany",
+    "type": "coastal",
+    "nation": "Italy",
+    "supply": null
+  },
+  "Ven": {
+    "name": "Venice",
+    "type": "coastal",
+    "nation": "Italy",
+    "supply": {}
+  },
+  "Adr": {
+    "name": "Adriatic Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Aeg": {
+    "name": "Aegean Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Bal": {
+    "name": "Baltic Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Bar": {
+    "name": "Barents Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Bla": {
+    "name": "Black Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Eas": {
+    "name": "Eastern Mediterranean",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Eng": {
+    "name": "English Channel",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Bot": {
+    "name": "Gulf of Bothnia",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "GoL": {
+    "name": "Gulf of Lyon",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Hel": {
+    "name": "Helgoland Bight",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Ion": {
+    "name": "Ionian Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Iri": {
+    "name": "Irish Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Mid": {
+    "name": "Mid-Atlantic Ocean",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "NAt": {
+    "name": "North Atlantic Ocean",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Nth": {
+    "name": "North Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Nrg": {
+    "name": "Norwegian Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Ska": {
+    "name": "Skagerrak",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Wes": {
+    "name": "Western Mediterranean",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  },
+  "Tyn": {
+    "name": "Tyrrhenian Sea",
+    "type": "water",
+    "nation": null,
+    "supply": null
+  }
+}
