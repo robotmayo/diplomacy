@@ -113,6 +113,69 @@
     "parent" : "$12",
     "type" : "coast",
     "nodes" : []
+  },
+  {
+    "id" : "$14",
+    "name" : "Berlin",
+    "is_superpower" : false,
+    "alias" : [],
+    "parent" : "$12",
+    "type" : "coast",
+    "nodes" : []
+  },
+  {
+    "id" : "$15",
+    "name" : "Kiel",
+    "is_superpower" : false,
+    "alias" : [],
+    "parent" : "$12",
+    "type" : "coast",
+    "nodes" : []
+  },
+  {
+    "id" : "$16",
+    "name" : "Ruhr",
+    "is_superpower" : false,
+    "alias" : [],
+    "parent" : "$12",
+    "type" : "coast",
+    "nodes" : []
+  },
+  {
+    "id" : "$17",
+    "name" : "Munich",
+    "is_superpower" : false,
+    "alias" : [],
+    "parent" : "$12",
+    "type" : "coast",
+    "nodes" : []
+  },
+  {
+    "id" : "$18",
+    "name" : "Silesia",
+    "is_superpower" : false,
+    "alias" : [],
+    "parent" : "$12",
+    "type" : "coast",
+    "nodes" : []
+  },
+  {
+    "id" : "$19",
+    "name" : "Austria-Hungary",
+    "is_superpower" : true,
+    "alias" : [],
+    "parent" : "",
+    "type" : "land",
+    "nodes" : []
+  },
+  {
+    "id" : "$20",
+    "name" : "Vienna",
+    "is_superpower" : true,
+    "alias" : [],
+    "parent" : "",
+    "type" : "land",
+    "nodes" : []
   }
 ]
 
