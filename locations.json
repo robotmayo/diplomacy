@@ -3,321 +3,433 @@
     "name": "Bohemia",
     "type": "inland",
     "nation": "Austria",
-    "supply": null
+    "supply": null,
+    "x": 1360,
+    "y": 1370
   },
   "Bud": {
     "name": "Budapest",
     "type": "inland",
     "nation": "Austria",
     "supply": {
-
-    }
+      "x": 1670,
+      "y": 1490
+    },
+    "x": 1795,
+    "y": 1540
   },
   "Gal": {
     "name": "Galicia",
     "type": "inland",
     "nation": "Austria",
-    "supply": null
+    "supply": null,
+    "x": 1841,
+    "y": 1435
   },
   "Tri": {
     "name": "Trieste",
     "type": "coastal",
     "nation": "Austria",
     "supply": {
-
-    }
+      "x": 1365,
+      "y": 1640
+    },
+    "x": 1445,
+    "y": 1640
   },
   "Tyr": {
     "name": "Tyrolia",
     "type": "inland",
     "nation": "Austria",
-    "supply": null
+    "supply": null,
+    "x": 1400,
+    "y": 1535
   },
   "Vie": {
     "name": "Vienna",
     "type": "inland",
     "nation": "Austria",
     "supply": {
-
-    }
+      "x": 1530,
+      "y": 1480
+    },
+    "x": 1470,
+    "y": 1515
   },
   "Cly": {
     "name": "Clyde",
     "type": "coastal",
     "nation": "England",
-    "supply": null
+    "supply": null,
+    "x": 765,
+    "y": 805
   },
   "Edi": {
     "name": "Edinburgh",
     "type": "coastal",
     "nation": "England",
     "supply": {
-
-    }
+      "x": 795,
+      "y": 890
+    },
+    "x": 860,
+    "y": 835
   },
   "Lvp": {
     "name": "Liverpool",
     "type": "coastal",
     "nation": "England",
     "supply": {
-
-    }
+      "x": 790,
+      "y": 1050
+    },
+    "x": 750,
+    "y": 900
   },
   "Lon": {
     "name": "London",
     "type": "coastal",
     "nation": "England",
     "supply": {
-
-    }
+      "x": 850,
+      "y": 1180
+    },
+    "x": 900,
+    "y": 1150
   },
   "Wal": {
     "name": "Wales",
     "type": "coastal",
     "nation": "England",
-    "supply": null
+    "supply": null,
+    "x": 770,
+    "y": 1200
   },
   "Yor": {
     "name": "Yorkshire",
     "type": "coastal",
     "nation": "England",
-    "supply": null
+    "supply": null,
+    "x": 830,
+    "y": 990
   },
   "Bre": {
     "name": "Brest",
     "type": "coastal",
     "nation": "France",
-    "supply": null
+    "supply": null,
+    "x": 740,
+    "y": 1450
   },
   "Bur": {
     "name": "Burgundy",
     "type": "inland",
     "nation": "France",
-    "supply": null
+    "supply": null,
+    "x": 1025,
+    "y": 1500
   },
   "Gas": {
     "name": "Gascony",
     "type": "coastal",
     "nation": "France",
-    "supply": null
+    "supply": null,
+    "x": 722,
+    "y": 1627
   },
   "Mar": {
     "name": "Marseilles",
     "type": "coastal",
     "nation": "France",
     "supply": {
-    }
+      "x": 1020,
+      "y": 1730
+    },
+    "x": 860,
+    "y": 1700
   },
   "Par": {
     "name": "Paris",
     "type": "inland",
     "nation": "France",
     "supply": {
-
-    }
+      "x": 880,
+      "y": 1385
+    },
+    "x": 930,
+    "y": 1385
   },
   "Pic": {
     "name": "Picardy",
     "type": "coastal",
     "nation": "France",
-    "supply": null
+    "supply": null,
+    "x": 950,
+    "y": 1300
   },
   "Ber": {
     "name": "Berlin",
     "type": "coastal",
     "nation": "Germany",
     "supply": {
-
-    }
+      "x": 1370,
+      "y": 1125
+    },
+    "x": 1350,
+    "y": 1210
   },
   "Kie": {
     "name": "Kiel",
     "type": "coastal",
     "nation": "Germany",
     "supply": {
-
-    }
+      "x": 1250,
+      "y": 1175
+    },
+    "x": 1235,
+    "y": 1125
   },
   "Mun": {
     "name": "Munich",
     "type": "inland",
     "nation": "Germany",
     "supply": {
-
-    }
+      "x": 1200,
+      "y": 1450
+    },
+    "x": 1275,
+    "y": 1485
   },
   "Pru": {
     "name": "Prussia",
     "type": "coastal",
     "nation": "Germany",
-    "supply": null
+    "supply": null,
+    "x": 1630,
+    "y": 1125
   },
   "Ruh": {
     "name": "Ruhr",
     "type": "inland",
     "nation": "Germany",
-    "supply": null
+    "supply": null,
+    "x": 1095,
+    "y": 1375
   },
   "Sil": {
     "name": "Silesia",
     "type": "inland",
     "nation": "Germany",
-    "supply": null
+    "supply": null,
+    "x": 1530,
+    "y": 1320
   },
   "Apu": {
     "name": "Apulia",
     "type": "coastal",
     "nation": "Italy",
-    "supply": null
+    "supply": null,
+    "x": 1460,
+    "y": 1915
   },
   "Nap": {
     "name": "Naples",
     "type": "coastal",
     "nation": "Italy",
     "supply": {
-
-    }
+      "x": 1385,
+      "y": 1925
+    },
+    "x": 1450,
+    "y": 2025
   },
   "Pie": {
     "name": "Piedmont",
     "type": "coastal",
     "nation": "Italy",
-    "supply": {
-
-    }
+    "x": 1170,
+    "y": 1670
   },
   "Rom": {
     "name": "Rome",
     "type": "coastal",
     "nation": "Italy",
     "supply": {
-
-    }
+      "x": 1305,
+      "y": 1850
+    },
+    "x": 1313,
+    "y": 1895
   },
   "Tus": {
     "name": "Tuscany",
     "type": "coastal",
     "nation": "Italy",
-    "supply": null
+    "supply": null,
+    "x": 1270,
+    "y": 1835
   },
   "Ven": {
     "name": "Venice",
     "type": "coastal",
     "nation": "Italy",
-    "supply": {}
+    "supply": {
+      "x": 1300,
+      "y": 1625
+    },
+    "x": 1320,
+    "y": 1600
   },
   "Adr": {
     "name": "Adriatic Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1530,
+    "y": 1875
   },
   "Aeg": {
     "name": "Aegean Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1530,
+    "y": 1880
   },
   "Bal": {
     "name": "Baltic Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 2150,
+    "y": 1715
   },
   "Bar": {
     "name": "Barents Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 2100,
+    "y": 100
   },
   "Bla": {
     "name": "Black Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1600,
+    "y": 990
   },
   "Eas": {
     "name": "Eastern Mediterranean",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 2230,
+    "y": 2200
   },
   "Eng": {
     "name": "English Channel",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 830,
+    "y": 1270
   },
   "Bot": {
     "name": "Gulf of Bothnia",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1620,
+    "y": 860
   },
   "GoL": {
     "name": "Gulf of Lyon",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 850,
+    "y": 1850
   },
   "Hel": {
     "name": "Helgoland Bight",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1185,
+    "y": 1050
   },
   "Ion": {
     "name": "Ionian Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1595,
+    "y": 2080
   },
   "Iri": {
     "name": "Irish Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 600,
+    "y": 1150
   },
   "Mid": {
     "name": "Mid-Atlantic Ocean",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 160,
+    "y": 1700
   },
   "NAt": {
     "name": "North Atlantic Ocean",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 275,
+    "y": 780
   },
   "Nth": {
     "name": "North Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1020,
+    "y": 1015
   },
   "Nrg": {
     "name": "Norwegian Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1050,
+    "y": 450
   },
   "Ska": {
     "name": "Skagerrak",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1230,
+    "y": 890
   },
   "Wes": {
     "name": "Western Mediterranean",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 970,
+    "y": 2030
   },
   "Tyn": {
     "name": "Tyrrhenian Sea",
     "type": "water",
     "nation": null,
-    "supply": null
+    "supply": null,
+    "x": 1200,
+    "y": 2000
   }
 }
